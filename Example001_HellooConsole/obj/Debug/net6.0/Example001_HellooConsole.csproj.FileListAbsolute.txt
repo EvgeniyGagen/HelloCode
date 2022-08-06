@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\bin\Debug\net6.0\Example001_HellooConsole.exe
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\bin\Debug\net6.0\Example001_HellooConsole.deps.json
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\bin\Debug\net6.0\Example001_HellooConsole.runtimeconfig.json
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\bin\Debug\net6.0\Example001_HellooConsole.dll
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\bin\Debug\net6.0\Example001_HellooConsole.pdb
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.dll
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\refint\Example001_HellooConsole.dll
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.pdb
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\Example001_HellooConsole.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\Examples\Example001_HellooConsole\obj\Debug\net6.0\ref\Example001_HellooConsole.dll
